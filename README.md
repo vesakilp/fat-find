@@ -3,9 +3,9 @@
 Web app to verify that if a certain food is good or bad for your cholesterol levels.
 1. User can search foods with fuzzy search
 2. Search hits are shown with traffic light color:
-    green: ok
-    yellow: ok in small portions
-    red: avoid
+    * green: ok
+    * yellow: ok in small portions
+    * red: avoid
 
 Milestone 1: Search capability and presenting results, data in a static list
 
